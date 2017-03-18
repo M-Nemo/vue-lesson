@@ -1,4 +1,4 @@
-# project1
+# project1,Todo List
 
 > A Vue.js project
 
@@ -19,3 +19,5 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+初学Vue，基本指令的应用，事件处理，列表渲染，Class绑定，模板语法。
